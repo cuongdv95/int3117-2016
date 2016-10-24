@@ -36,7 +36,7 @@ Các trường hợp:
 
 •	là phần tử nhỏ nhất (vị trí cuối cùng)
 
-•	là phần tử bất kì
+•	là phần tử bất kì trong mảng
 
 Số lượng phần tử	Mảng   	       Khóa tìm kiếm	       Vị trí	       Pass/Fail
 
