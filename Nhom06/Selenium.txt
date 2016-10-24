@@ -4,7 +4,7 @@ Giới thiệu công cụ kiểm thử tự động Selenium.
 
 Selenium là một công cụ kiểm thử phần mềm tự động, được phát triển bởi ThoughtWorks từ năm 2004 với tên ban đầu là JavaScriptTestRunner. Đến năm 2007, tác giả Jason Huggins rời ThoughtWorks và gia nhập Selenium team, một phần của Google và phát triển thành Selenium như hiện nay.
 
-Về cấu trúc thì Selenium có 4 phần
+Về cấu trúc thì Selenium có 4 phần:
 
 Selenium IDE (Integrated Development Environment) là một công cụ cho phép chúng ta Record/Playback một test script. Đây là một add-on hỗ trợ cho FireFox. Chúng ta chỉ có thể Record trên trình duyệt FireFox, nhưng bù lại, chúng ta có thể Playback trên các trình duyện khác như là IE, Chrome….
 
